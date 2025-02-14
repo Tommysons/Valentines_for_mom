@@ -98,13 +98,11 @@ fontLoader.load('/fonts/helvetiker_regular.typeface.json', (font) => {
 
   // Text
   const lines = [
-    'Maman',
+    'Ome',
     'Apsveicu',
     'Tevi',
     'Valentindiena',
-    'PS: Maman ei Bezdet!!!',
-    'Atbildot uz tavu jautajumu,',
-    'Talab, kad gribu sutit BEZDET!!!',
+    'PS: Beidz Bimbulot',
   ]
 
   // Vertical spacing between lines
