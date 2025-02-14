@@ -98,11 +98,11 @@ fontLoader.load('/fonts/helvetiker_regular.typeface.json', (font) => {
 
   // Text
   const lines = [
-    'Ome',
+    'Maman',
     'Apsveicu',
     'Tevi',
     'Valentindiena',
-    'PS: Beidz Bimbulot',
+    'PS: Korech viss cotka',
   ]
 
   // Vertical spacing between lines
